@@ -66,7 +66,7 @@ plot(*query_object)
 ```
 ## About the Authors
 
-We are a small group working from University of Engineering & Technology, Peshawar. Feel free to reach out to use at our slack, discord, gitub or email.
+We are a small group working from University of Engineering & Technology, Peshawar. Feel free to reach out to us at our slack, discord, gitub or email.
 
 # Social
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
