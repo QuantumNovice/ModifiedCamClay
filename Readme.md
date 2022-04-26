@@ -11,7 +11,7 @@ The MCC model was created with triaxial load conditions in mind. The creation of
 # Installation
 
 ```bash
-pip install modifiedcamclay
+pip install modified-cam-clay
 ```
 ## Usage
 
