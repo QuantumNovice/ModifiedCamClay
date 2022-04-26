@@ -55,7 +55,7 @@ plot(*query_object)
 
 ```bibtex
 @software{Haseeb2022,
-  author = {Syed Haseeb Shah, Tariq Khan and Saad MairajUddin, Abd Ullah},
+  author = {Syed Haseeb Shah, Tariq Khan and Saad MirajUddin, Abd Ullah},
   doi = {10.13140/RG.2.2.17604.71046},
   month = {4},
   title = {Modified Cam Clay in Python},
