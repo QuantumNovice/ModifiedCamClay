@@ -68,5 +68,9 @@ plot(*query_object)
 
 We are a small group working from University of Engineering & Technology, Peshawar. Feel free to reach out to us at our slack, discord, gitub or email.
 
+## Acknowledgments
+We are grateful to Dr Muhammad Safdar for providing us with this oppurtunity. Their youtube channel
+![ Dr. Muhammad Safdar Geotech. Engg. Youtube](https://www.youtube.com/channel/UC4UrfT1hfgRcIU04SAeEnsg)
+
 # Social
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
