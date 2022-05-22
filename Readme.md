@@ -69,7 +69,7 @@ plot(*query_object)
 We are a small group working from University of Engineering & Technology, Peshawar. Feel free to reach out to us at our slack, discord, gitub or email.
 
 ## Acknowledgments
-We are grateful to Dr Muhammad Safdar for providing us with this oppurtunity. Their youtube channel
+We are grateful to Dr Muhammad Safdar for providing us with this oppurtunity. His youtube channel
 ![ Dr. Muhammad Safdar Geotech. Engg. Youtube](https://www.youtube.com/channel/UC4UrfT1hfgRcIU04SAeEnsg)
 
 # Social
